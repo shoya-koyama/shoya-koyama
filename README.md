@@ -26,3 +26,5 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/shoya-koyama?label=Reddit&logo=reddit&style=flat" />
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoya-koyama)](https://github.com/ryo-ma/github-profile-trophy)
